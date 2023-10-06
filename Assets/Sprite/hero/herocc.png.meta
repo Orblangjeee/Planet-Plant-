@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 3f7a6502328129b4790cc584ef800fe5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1004312442034723979
+    second: herocc_0
+  - first:
+      213: -1809129638696200062
+    second: herocc_1
+  - first:
+      213: -7334860706100188747
+    second: herocc_2
+  - first:
+      213: -5636023553960262770
+    second: herocc_3
+  - first:
+      213: 4577831937067610247
+    second: herocc_4
+  - first:
+      213: 9052648576897001696
+    second: herocc_5
+  - first:
+      213: -7002986445694824750
+    second: herocc_6
+  - first:
+      213: 8073160353443573406
+    second: herocc_7
+  - first:
+      213: 70872868292326850
+    second: herocc_8
+  - first:
+      213: -7540809433346871683
+    second: herocc_9
+  - first:
+      213: -2954050820869315580
+    second: herocc_10
+  - first:
+      213: 2442988947065679754
+    second: herocc_11
+  - first:
+      213: 8846098913027864797
+    second: herocc_12
+  - first:
+      213: 4572412045304410128
+    second: herocc_13
+  - first:
+      213: -2809361809676309774
+    second: herocc_14
+  - first:
+      213: 1589973978131857032
+    second: herocc_15
+  - first:
+      213: -1847263517423280497
+    second: herocc_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: herocc_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 758
+        width: 150
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5923223, y: 0.17867868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573e301b727ff02f0800000000000000
+      internalID: -1004312442034723979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 777
+        width: 80
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8212682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288d1e4cd2ea4e6e0800000000000000
+      internalID: -1809129638696200062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 520
+        width: 200
+        height: 395
+      alignment: 9
+      pivot: {x: 0.45054168, y: 0.30216682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b96defac07553a90800000000000000
+      internalID: -7334860706100188747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 679
+        width: 73
+        height: 233
+      alignment: 9
+      pivot: {x: 0.3201871, y: 0.86618733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83c6784072d8c1b0800000000000000
+      internalID: -5636023553960262770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 835
+        width: 107
+        height: 67
+      alignment: 9
+      pivot: {x: 0.8802987, y: 0.67632604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807a5274e9b78f30800000000000000
+      internalID: 4577831937067610247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_5
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 628
+        width: 77
+        height: 257
+      alignment: 9
+      pivot: {x: 0.47949854, y: 0.9222977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8246eeae771ad70800000000000000
+      internalID: 9052648576897001696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_6
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 731
+        width: 62
+        height: 62
+      alignment: 9
+      pivot: {x: 0.7752311, y: 0.77523214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de0c795ee460de90800000000000000
+      internalID: -7002986445694824750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 515
+        width: 43
+        height: 199
+      alignment: 9
+      pivot: {x: 0.54600775, y: 0.9125673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e65c96190a90070800000000000000
+      internalID: 8073160353443573406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 518
+        width: 84
+        height: 208
+      alignment: 9
+      pivot: {x: 0.58243054, y: 0.87093794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f6ca8f7acbf000800000000000000
+      internalID: 70872868292326850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_9
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 461
+        width: 56
+        height: 197
+      alignment: 9
+      pivot: {x: 0.40624127, y: 0.8797998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ee176f5c9a95790800000000000000
+      internalID: -7540809433346871683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_10
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 441
+        width: 117
+        height: 163
+      alignment: 9
+      pivot: {x: 0.82535547, y: 0.9107033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40422adfd6a1107d0800000000000000
+      internalID: -2954050820869315580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 358
+        width: 110
+        height: 165
+      alignment: 9
+      pivot: {x: 0.7744618, y: 0.9057253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f2e0cf08d37e120800000000000000
+      internalID: 2442988947065679754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 209
+        width: 82
+        height: 255
+      alignment: 9
+      pivot: {x: 0.44687223, y: 0.9006928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010361f8788747f30800000000000000
+      internalID: 4572412045304410128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 301
+        width: 169
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae1b891542309d0800000000000000
+      internalID: -2809361809676309774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 86
+        height: 272
+      alignment: 9
+      pivot: {x: 0.61283344, y: 0.8924302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ef9a8b8e8b01610800000000000000
+      internalID: 1589973978131857032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herocc_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 10
+        width: 86
+        height: 258
+      alignment: 9
+      pivot: {x: 0.34955367, y: 0.87193435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e527d3e933d56e0800000000000000
+      internalID: -1847263517423280497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

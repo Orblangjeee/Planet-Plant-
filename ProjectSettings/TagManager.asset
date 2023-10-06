@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Wall
+  - Enemy
+  - LeftDoor
+  - Found
+  - Item
+  - Room
+  - Sofa
+  - Drawer
+  - Box
+  - Refrigerator
+  - MedicalBox
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - room
+  - Enemy
+  - Player
+  - Item
+  - Furniture
+  - 
+  - 
+  - Son1
+  - Son2
+  - Sons
+  - 
+  - 
+  - Roommask
+  - Cameracollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
